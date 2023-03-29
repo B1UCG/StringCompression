@@ -11,6 +11,7 @@ This C# library provides a simple string compression algorithm as an extension m
 ## Installation
 
 1. Clone this repository to your local machine.
+
         git clone https://github.com/your_username/StringCompression.git
 
 2. Add the `StringCompression.csproj` file to your C# project as a reference or include the `StringExtensions.cs` file in your project.
