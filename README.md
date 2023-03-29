@@ -29,6 +29,7 @@ Console.WriteLine(compressed); // Output: "4a4b2a1c1d1e"
 
 ## Testing
 The library includes a test project using xUnit. To run the tests, navigate to the StringCompression.Tests directory and execute the following command:
+
     dotnet test
     
 ## Contributing
