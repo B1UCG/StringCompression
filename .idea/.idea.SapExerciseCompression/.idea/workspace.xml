@@ -7,11 +7,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="90c40235-2a10-491a-8c6c-bf564739dad5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.SapExerciseCompression/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StringCompression.Lib/StringExtensions.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StringCompression.sln" afterDir="false" />
+    <list default="true" id="90c40235-2a10-491a-8c6c-bf564739dad5" name="Changes" comment="[RELEASE] - Versão Inicial da Solução">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.SapExerciseCompression/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SapExerciseCompression/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,12 +53,22 @@
       <option name="presentableId" value="Default" />
       <updated>1680097899232</updated>
       <workItem from="1680097902369" duration="4390000" />
-      <workItem from="1680102907276" duration="3078000" />
+      <workItem from="1680102907276" duration="3182000" />
     </task>
+    <task id="LOCAL-00001" summary="[RELEASE] - Versão Inicial da Solução">
+      <created>1680106071203</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1680106071203</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="[RELEASE] - Versão Inicial da Solução" />
+    <option name="LAST_COMMIT_MESSAGE" value="[RELEASE] - Versão Inicial da Solução" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
